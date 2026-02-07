@@ -1,1 +1,1 @@
-# genai_text_generator
+Simple GenAI code generator project using GPT-2
